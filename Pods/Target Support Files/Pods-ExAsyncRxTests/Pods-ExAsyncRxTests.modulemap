@@ -1,0 +1,6 @@
+framework module Pods_ExAsyncRxTests {
+  umbrella header "Pods-ExAsyncRxTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
